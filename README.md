@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a software developer and student in Jala university.
+I am a software developer and student at Jala university.
 
 
 ## 🌐 Socials:
