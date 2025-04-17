@@ -1,5 +1,12 @@
 # 💫 About Me:
-I am a software developer and student at Jala university. <br>I am currently perfecting my skills in Java, C and C++.
+Systems Technician & Software Engineering student at Jala University.
+Passionate about backend & full-stack development using C++, Java, C, and JavaScript.
+Experience with Spring Boot, Angular, JWT, and JavaFX.
+Deploying with Docker, Netlify, Vercel, and AWS.
+Skilled in working with MariaDB, PostgreSQL, and MongoDB.
+I use Git, GitHub, CMake, Maven, and Swagger daily.
+
+🐧 Linux user | 🎮 Game Dev hobbyist
 
 
 ## 🌐 Socials:
