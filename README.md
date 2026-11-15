@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Systems Technician & Software Engineering student at Jala University.
 Passionate about backend & full-stack development using C++, Java, C, and JavaScript.
 Experience with Spring Boot, Angular, JWT, and JavaFX.
